@@ -1,0 +1,5 @@
+while true; do curl www.google.com; done
+   11  while true; do python3 time.py; done
+   
+   
+   while true; do python3 time.py;sleep 2;  done
