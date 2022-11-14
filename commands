@@ -1,4 +1,5 @@
-while true; do curl www.google.com; done
+#while true; do curl www.google.com; done
+while true; do curl http://44.205.243.53:8080/; done
    11  while true; do python3 time.py; done
    
    
